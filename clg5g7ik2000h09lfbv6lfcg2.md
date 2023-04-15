@@ -5,8 +5,8 @@ seoDescription: "How to Showcase Your Skills and Build Your Network as a Develop
 datePublished: Thu Apr 06 2023 18:25:18 GMT+0000 (Coordinated Universal Time)
 cuid: clg5g7ik2000h09lfbv6lfcg2
 slug: maximizing-career-growth-with-github
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680805994081/4b887c74-88d1-4c62-8212-6678f215a5d5.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680806012267/883510c3-e554-4752-8a52-edb07829d920.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681582148089/e9b97f9c-ef98-4130-ab0d-0ab5845a41ee.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1681582169852/3f191cbc-c3f5-47cc-880d-6ee2ac425e4a.png
 tags: software-development, github, developer, frontend-development
 
 ---
